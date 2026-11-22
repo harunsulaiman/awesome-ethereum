@@ -57,6 +57,7 @@ decided that it has value.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
 - [growthepie - Ethereum Ecosystem Analytics](https://www.growthepie.com)
+- [Chain.Love: Open-source Web3 Infrastructure Provider Directory](https://chain.love/) - Compare RPC providers, indexers, block explorers, bridges, wallets and other Web3 services across Ethereum and other networks.
 - [Konkret Wallet: Browser Extension Wallet](https://codeberg.org/konkret/konkret-wallet)
 - [MyEtherWallet: Browser Based Wallet](https://www.myetherwallet.com/)
 - [MyCrypto: Browser Based Wallet](https://mycrypto.com/)
